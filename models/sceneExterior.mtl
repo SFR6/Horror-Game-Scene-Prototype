@@ -1,0 +1,108 @@
+# Blender 3.6.5 MTL File: 'scene.blend'
+# www.blender.org
+
+newmtl 10602_Rubber_Duck_v1_Mat
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Duck/10602_Rubber_Duck_v1_diffuse.png
+
+newmtl Black.Street.Lighting.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Lamp Post/pngtree-seamless-scratch-rusted-gruger-texture-background-picture-image_1588725.png
+map_Ns Lamp Post/Street.Lighting.1_Black.Street.Lighting.1_Roughness.png
+map_refl Lamp Post/Street.Lighting.1_Black.Street.Lighting.1_Metallic.png
+map_Bump Lamp Post/Street.Lighting.1_Black.Street.Lighting.1_Normal.png
+
+newmtl DB2X2_L01
+Ns 16.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Tree/Seamless hedge green yellow leaves tree texture.png
+
+newmtl Grey.Street.Lighting.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Lamp Post/pngtree-seamless-scratch-rusted-gruger-texture-background-picture-image_1588725.png
+map_Ns Lamp Post/Street.Lighting.1_Grey.Street.Lighting.1_Roughness.png
+map_refl Lamp Post/Street.Lighting.1_Grey.Street.Lighting.1_Metallic.png
+map_Bump Lamp Post/Street.Lighting.1_Grey.Street.Lighting.1_Normal.png
+
+newmtl Ground
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd ground.png
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd water.png
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd dirt.png
+
+newmtl Trank_bark
+Ns 16.000006
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Tree/bark_0004.png
+
+newmtl White.Street.Lighting.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Lamp Post/146255749-broken-glass-structure-background-with-shards-of-transparent-glass-broken-glass-texture.png
+map_Ns Lamp Post/Street.Lighting.1_White.Street.Lighting.1_Roughness.png
+map_refl Lamp Post/Street.Lighting.1_White.Street.Lighting.1_Metallic.png
+map_Bump Lamp Post/Street.Lighting.1_White.Street.Lighting.1_Normal.png
+
+newmtl cottage_texture
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd House/cottage_diffuse.png

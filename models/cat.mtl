@@ -1,0 +1,24 @@
+# Blender 3.6.5 MTL File: 'cat.blend'
+# www.blender.org
+
+newmtl Cat
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Cat/Cat_diffuse.png
+map_Bump Cat/Cat_bump.png
+
+newmtl Cat.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Cat/Cat_diffuse3.png
+map_Bump Cat/Cat_bump.png

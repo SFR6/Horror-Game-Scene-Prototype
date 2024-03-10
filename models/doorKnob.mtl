@@ -1,0 +1,12 @@
+# Blender 3.6.5 MTL File: 'scene.blend'
+# www.blender.org
+
+newmtl Material.018
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Door Knob/d5cgrok-da78b6f4-69cc-423f-96b1-593ab07e1a8a.png
